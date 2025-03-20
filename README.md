@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monishasuresh
 - 👀 I’m interested in Learning everyday
-- 🌱 I’m currently studying in BMS College of Engineering
+- 🌱 I’m currently working in Mercedes-Benz Research and Development India
 - 📫 How to reach me monishasuresh2001@gmail.com
 
 <!---
