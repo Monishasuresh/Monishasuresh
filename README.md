@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Monisha S</h1>
 
-![GitHub profile views count](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![GitHub profile views count](https://komarev.com/ghpvc/?username=Monishasuresh&color=green)
 - 👀 I’m interested in Learning everyday
 - 🌱 I’m currently passionate about learning AI
 - 📫 How to reach me monishasuresh2001@gmail.com
