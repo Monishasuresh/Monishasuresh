@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,go,react,azure,mysql,postgres,idea,vscode&theme=light" height="40" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,postman,docker,kunernetes&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,postman,docker,kubernetes&theme=light" height="40" />
 </p>
 
 ## ⚡️ GitHub Stats
