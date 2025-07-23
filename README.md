@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,postman,docker,kunernetes&theme=light" height="40" />
 </p>
 
-## ⚡️ Stats
+## ⚡️ GitHub Stats
 <br>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monishasuresh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -31,8 +31,15 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Monishasuresh&theme=dark&hide_border=true)
 
+
 </div>
 
+## ⚡️ Leetcode Stats
+<br>
+<div align="center">
+  
+  ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Monisha-s&theme=dark&font=baloo&extension=activity)
+</div>
 <!---
 Monishasuresh/Monishasuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
